@@ -9,3 +9,5 @@ jobs:
             echo Line 1
             echo Line 2
             echo Line 3
+        - name: Who_is_Melanies_FAN
+          run: ME!
