@@ -1,0 +1,11 @@
+name: DEMO
+on: workflow_dispatch
+jobs:
+    print:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Prints
+          run: |
+            echo Line 1
+            echo Line 2
+            echo Line 3
