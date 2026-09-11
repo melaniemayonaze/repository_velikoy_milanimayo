@@ -10,4 +10,4 @@ jobs:
             echo Line 2
             echo Line 3
         - name: Who_is_Melanies_FAN
-          run: ME!
+          run: echo ME!
